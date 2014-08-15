@@ -26,6 +26,6 @@ console.log(total);
 
 //Alert the user with the total cost for the whole trip.
 
-alert("Your total cost for gas is" + total + " " + "dollars") ;
+alert("Your total cost for gas is" + "" + total + " " + "dollars") ;
 
 
