@@ -4,7 +4,7 @@
  * Industry Specific Expression
  * 8-14-2014
  */
-//How many website clients to reach $1500 in profit at $100 per client to be calculated
+//How many website clients to reach $1500 in profit at $100 per client to be calculated. How many to reach $2500 in profit? How many to reach $10,000 in profit?
 
 //Figure out how many clients it would take to bank $1500 total.
 
