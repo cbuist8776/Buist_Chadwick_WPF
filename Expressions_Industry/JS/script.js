@@ -14,4 +14,6 @@ var client = 100 + "dollars";
 
 var total = 1500/client
 
+//Print to console
 
+console.log(total);
