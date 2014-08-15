@@ -17,3 +17,7 @@ var total = 1500/client
 //Print to console
 
 console.log(total);
+
+//Alert the user of the total.
+
+alert(total);
