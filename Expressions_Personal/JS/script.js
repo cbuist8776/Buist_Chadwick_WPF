@@ -6,5 +6,5 @@
 //
 var tank = 20 + "gallons";
 
-
+var distance = 180*2 + "miles";
 
