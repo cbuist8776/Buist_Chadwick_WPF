@@ -20,3 +20,7 @@ var 50 = 50*1
 
 alert(50)
 
+//Calculate number of strokes per 100 meters
+
+
+
