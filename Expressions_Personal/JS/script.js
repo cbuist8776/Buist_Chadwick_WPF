@@ -21,7 +21,11 @@ var totalTimesDriven = prompt("How many one way trips were made?");
 
 console.log(totalTimesDriven)
 
+var totalTripDistance = totalTimesDriven*180
 
+console.log(totalTripDistance)
+
+alert ("Your total miles driven was" + totalTripDistance);
 
 
 
