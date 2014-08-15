@@ -22,3 +22,8 @@ var total = fillups*3.40;
 
 console.log(total);
 
+//Alert the user with the total cost for the whole trip.
+
+alert(total);
+
+
