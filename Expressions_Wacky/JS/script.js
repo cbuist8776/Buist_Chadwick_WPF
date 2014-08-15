@@ -22,5 +22,5 @@ alert(50)
 
 //Calculate number of strokes per 100 meters
 
-
+var 100 = 100*1
 
