@@ -4,11 +4,11 @@
  * 8-14-2014
  */
 //
-var tank = 20 + "gallons";
+var tank = 20;
 
-var distance = 180*2 + "miles";
+var distance = 180*2;
 
-var price = 3.40 + "dollars and cents";
+var price = 3.40;
 
 //Ask the driver how many times he or she filled up?
 
