@@ -5,3 +5,7 @@
  * 8-14-2014
  */
 //How many strokes per 25,50,and 100 meters will occur?
+
+var stroke = 5/5 "meters";
+
+
