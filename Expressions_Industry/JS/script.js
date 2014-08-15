@@ -10,4 +10,6 @@
 
 var client = 100 + "dollars";
 
+//Calculate how many clients he/she would need to reach %1500 in fees.
+
 
