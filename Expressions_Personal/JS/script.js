@@ -12,13 +12,13 @@ var price = 3.40;
 
 //Ask the driver how many times he or she filled up?
 
-var fillups = prompt(How many times did you fill up on the whole trip?);
+var fillups = prompt("How many times did you fill up on the whole trip?");
 
 console.log(fillups);
 
 //Calculate the total gallons and multiply it by the price.
 
-var total = fillups*3.40;
+var total = (20*3.40)*fillups;
 
 //Write to the total to the console.
 
