@@ -9,3 +9,7 @@ var tank = 20 + "gallons";
 var distance = 180*2 + "miles";
 
 var price = 3.40 + "dollars and cents";
+
+//Ask the driver how many times he or she filled up?
+
+var fillups = prompt(How many times did you fill up on the whole trip?);
