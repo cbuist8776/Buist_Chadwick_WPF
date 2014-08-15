@@ -23,7 +23,7 @@ var totalTripDistance = totalTimesDriven*180
 
 console.log(totalTripDistance)
 
-alert ("Your total miles driven was" + totalTripDistance);
+alert ("Your total miles driven was " + totalTripDistance);
 
 
 
