@@ -8,3 +8,4 @@ var tank = 20 + "gallons";
 
 var distance = 180*2 + "miles";
 
+var price = 3.40 + "dollars and cents";
