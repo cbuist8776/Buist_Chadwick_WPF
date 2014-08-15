@@ -7,3 +7,7 @@
 //How many website clients to reach $1500 in profit at $100 per client to be calculated
 
 //Figure out how many clients it would take to bank $1500 total.
+
+var client = 100 + "dollars";
+
+
