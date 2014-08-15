@@ -14,4 +14,6 @@ var 25 = 25*1;
 
 alert(25);
 
+//Calculate number of strokes per 50 meters.
+
 
