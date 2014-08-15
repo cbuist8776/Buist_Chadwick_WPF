@@ -13,8 +13,6 @@ var price = 3.40;
 
 //Calculate the total miles for the trip.
 
-var totalTripDistance = 180*x
-
 //Ask for total miles driven by asking how many one way trips were made.
 
 var totalTimesDriven = prompt("How many one way trips were made?");
