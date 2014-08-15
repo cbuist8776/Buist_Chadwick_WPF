@@ -10,4 +10,6 @@ var stroke = 5/5 "meters";
 
 //Calculate number of strokes per 25 meters.
 
+var 25 = 25*1
+
 
