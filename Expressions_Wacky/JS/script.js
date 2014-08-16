@@ -14,9 +14,13 @@ var stroke = 5/5 + "meters";
 
 var twentyFive = 25*1;
 
+//Write var twentyFive to the console
+
 console.log(twentyFive);
 
-alert(twentyFive);
+//Alert the athlete for the number of strokes per 25 meters
+
+alert("At one stroke per meter you will take" + twentyFive + "strokes per 25 meters");
 
 //Calculate number of strokes per 50 meters.
 
