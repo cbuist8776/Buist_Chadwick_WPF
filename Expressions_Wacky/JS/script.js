@@ -22,7 +22,7 @@ alert(twentyFive);
 
 var fifty = 50*1
 
-Console.log (fifty);
+Console.log(fifty);
 
 alert(fifty)
 
