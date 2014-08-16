@@ -46,6 +46,10 @@ var oneHundredForty = 1500/140;
 
 console.log(oneHundredForty);
 
+//Alert the owner how many clients to get $1500 in profit at $140 per client
+
+alert ("You need " + "" + oneHundredForty + "" + "clients to reach 1500 in profit");
+
 
 
 
