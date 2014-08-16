@@ -34,5 +34,7 @@ var oneHundredTwenty = 1500/120;
 
 console.log(oneHundredTwenty)
 
+alert ("You need " + "" + oneHundredTwenty + "" + "clients to reach 1500 in profit");
+
 
 
