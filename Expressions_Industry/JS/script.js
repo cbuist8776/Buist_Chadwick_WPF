@@ -30,4 +30,9 @@ alert( "You need " + "" + oneHundred + " " + "clients to reach 1500 dollars in p
 
 var oneHundredTwenty = 1500/120;
 
+//Write var oneHundredTwenty to console
+
+console.log(oneHundredTwenty)
+
+
 
