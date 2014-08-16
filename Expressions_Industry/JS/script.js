@@ -26,3 +26,8 @@ console.log(oneHundred);
 
 alert( "You need " + "" + oneHundred + " " + "clients to reach 1500 dollars in profit");
 
+//Calculate how many clients to reach $1500 at $120 per client
+
+var oneHundredTwenty = 1500/120;
+
+
