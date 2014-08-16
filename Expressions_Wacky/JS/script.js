@@ -22,7 +22,7 @@ alert(twentyFive);
 
 var fiftyMeters = 50*1
 
-Console.log(fiftyMeters)
+console.log(fiftyMeters)
 
 alert(fiftyMeters)
 
