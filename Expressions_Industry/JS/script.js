@@ -14,3 +14,9 @@ var client2 = 120 + "dollars"
 
 var client3 = 140 + "dollars"
 
+//Calculate how many clients to reach $1500 at $100 per client.
+
+var oneHundred = 1500/100
+
+
+
