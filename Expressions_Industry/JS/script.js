@@ -24,5 +24,5 @@ console.log(oneHundred);
 
 //Set up Alert to user for var oneHundred
 
-alert(oneHundred)
+alert( "You need" + oneHundred + "clients to reach 1500 dollars in profit");
 
