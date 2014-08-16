@@ -22,9 +22,9 @@ alert(twentyFive);
 
 var fiftyMeters = 50*1
 
-Console.log(fiftyMeters);
+Console.log(fiftyMeters)
 
-alert(fifty)
+alert(fiftyMeters)
 
 //Calculate number of strokes per 100 meters
 
