@@ -28,7 +28,7 @@ var fiftyMeters = 50*1
 
 console.log(fiftyMeters)
 
-alert(fiftyMeters)
+alert("At one stroke per meter you will take" + "" + fiftyMeters + "" + "strokes per 25 meters");
 
 //Calculate number of strokes per 100 meters
 
@@ -36,4 +36,4 @@ var oneHundred = 100*1
 
 console.log(oneHundred);
 
-alert(oneHundred)
+alert("At one stroke per meter you will take" + "" + oneHundred + "" + "strokes per 25 meters");
