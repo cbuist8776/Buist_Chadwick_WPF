@@ -34,11 +34,17 @@ var oneHundredTwenty = 1500/120;
 
 console.log(oneHundredTwenty)
 
+//Alert business owner of how many clients to get to $1500 in profit at $120 per client
+
 alert ("You need " + "" + oneHundredTwenty + "" + "clients to reach 1500 in profit");
 
 //Calculate how many clients to reach $1500 at $140 per client
 
 var oneHundredForty = 1500/140;
+
+//Write var oneHundredForty to console
+
+console.log(oneHundredForty);
 
 
 
