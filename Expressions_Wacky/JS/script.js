@@ -6,28 +6,30 @@
  */
 //How many strokes per 25,50,and 100 meters will occur?
 
-var stroke = 5/5 "meters";
+//Given
+
+var stroke = 5/5 + "meters";
 
 //Calculate number of strokes per 25 meters.
 
-var 25 = 25*1;
+var twentyFive = 25*1;
 
-console.log(25);
+console.log(twentyFive);
 
-alert(25);
+alert(twentyFive);
 
 //Calculate number of strokes per 50 meters.
 
-var 50 = 50*1
+var fifty = 50*1
 
-Console.log (50);
+Console.log (fifty);
 
-alert(50)
+alert(fifty)
 
 //Calculate number of strokes per 100 meters
 
-var 100 = 100*1
+var oneHundred = 100*1
 
-console.log(100);
+console.log(oneHundred);
 
-alert(100)
+alert(oneHundred)
