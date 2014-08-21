@@ -47,6 +47,12 @@ if(residence = "Onancock"){alert("Chad she lives in the same town as you.");}
 
 if(income >= "35,000"){alert("Chad she makes enough money.");}
 
+//Let Chad know if she likes him.
+
+if(like = "yes"){console.log("Chad she likes you too!");}
+
+
+
 
 
 
