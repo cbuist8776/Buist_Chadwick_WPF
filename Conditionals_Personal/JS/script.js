@@ -49,7 +49,7 @@ if(income >= "35,000"){alert("Chad she makes enough money.");}
 
 //Let Chad know if she likes him.
 
-if(like = "yes"){console.log("Chad she likes you too!");}
+if(like = "yes"){alert("Chad she likes you too!");}
 
 
 
