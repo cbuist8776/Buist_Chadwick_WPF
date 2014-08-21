@@ -43,6 +43,12 @@ if(like === ""){like= prompt("Please enter if you like Chad Buist or not!");}
 
 if(residence = "Onancock"){alert("Chad she lives in the same town as you.");}
 
+//Let Chad know if she makes over 35,000 per year.
+
+if(income >= "35,000"){alert("Chad she makes enough money.");}
+
+
+
 
 
 
