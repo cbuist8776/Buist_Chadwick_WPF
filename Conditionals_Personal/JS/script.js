@@ -41,15 +41,22 @@ if(like === ""){like= prompt("Please enter if you like Chad Buist or not!");}
 
 //Let Chad know if she lives in Onancock or not.
 
-if(residence = "Onancock"){alert("Chad she lives in the same town as you.");}
+if(residence = "Onancock"){console.log("Chad she lives in the same town as you.");}
+
+alert ("Chad she lives in the same town as you.")
 
 //Let Chad know if she makes over 35,000 per year.
 
-if(income >= "35,000"){alert("Chad she makes enough money.");}
+if(income >= "35,000"){console.log("Chad she makes enough money.");}
+
+alert ("Chad she makes enough money.");
 
 //Let Chad know if she likes him.
 
-if(like = "yes"){alert("Chad she likes you too!");}
+if(like = "yes"){console.log("Chad she likes you too!");}
+
+alert ("Chad she likes you too!");
+
 
 
 
