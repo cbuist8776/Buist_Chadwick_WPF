@@ -31,3 +31,11 @@ var income = prompt("How much do you make per year?");
 
 if (income === ""){income= prompt("Please enter your income!");}
 
+//Ask if she likes me.
+
+var like = prompt("Do you like Chad Buist?");
+
+//Validate the prompt
+
+if(like === ""){like= prompt("Please enter if you like Chad Buist or not!");}
+
