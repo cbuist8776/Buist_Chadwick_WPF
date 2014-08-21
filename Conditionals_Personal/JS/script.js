@@ -21,5 +21,13 @@ var residence = prompt("Where do you live?");
 
 //Validate the prompt
 
-if (residence === ""){name= prompt("Please enter where you live!");}
+if(residence === ""){residence= prompt("Please enter where you live!");}
+
+//Ask how much the person makes.
+
+var income = prompt("How much do you make per year?");
+
+//Validate the prompt
+
+if (income === ""){income= prompt("Please enter your income!");}
 
