@@ -39,3 +39,12 @@ var like = prompt("Do you like Chad Buist?");
 
 if(like === ""){like= prompt("Please enter if you like Chad Buist or not!");}
 
+//Let Chad know if she lives in Onancock or not.
+
+if(residence = "Onancock"){alert("Chad she lives in the same town as you.");}
+
+
+
+
+
+
