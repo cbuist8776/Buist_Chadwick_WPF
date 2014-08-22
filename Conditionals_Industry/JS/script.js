@@ -20,6 +20,12 @@ var money = prompt("How much money do you have to spend?")
 
 if(money === ""){money = prompt("Please enter the amount you have to spend!");}
 
+//if person is over 18 then he/she can make a purchase.
+
+if(age >= 18){console.log("Yes you are old enough to make a purchase here.");}
+
+
+
 
 
 
