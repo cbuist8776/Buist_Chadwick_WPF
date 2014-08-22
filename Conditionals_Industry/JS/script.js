@@ -8,5 +8,19 @@
 //Calculate if person is old enough and has enough money to buy a lap top from the store.
 
 //Establish variables needed to make the purchase.
-var age = 18
-var money = 100 
+var age = prompt("How old are you?");
+
+//Validate the prompt
+
+if(age === ""){age = prompt("Please enter your age!");}
+
+var money = prompt("How much money do you have to spend?") 
+
+//Validate the prompt
+
+if(money === ""){money = prompt("Please enter the amount you have to spend!");}
+
+
+
+
+
