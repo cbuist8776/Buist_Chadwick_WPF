@@ -22,11 +22,11 @@ if(money === ""){money = prompt("Please enter the amount you have to spend!");}
 
 //if person is over 18 then he/she can make a purchase.
 
-if(age >= 18){console.log("Yes you are old enough to make a purchase here.");}
+if(age >= 18){console.log("Yes you are old enough to make a purchase here.");}else {console.log("Sorry you are not old enough yet to make a purchase here");}
 
 //if the person has 100 dollars or more to spend then he/she can make a purchase.
 
-if(money >= 100){console.log("Yes you have enough money to make a purchase here");}
+if(money >= 100){console.log("Yes you have enough money to make a purchase here");}else {console.log("Sorry you do not have enough money to make a purchase today.");}
 
 
 
