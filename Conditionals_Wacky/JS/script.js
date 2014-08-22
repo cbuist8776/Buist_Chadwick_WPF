@@ -9,5 +9,13 @@
 
 var age = 14
 var speedTime= 24
+var team;
+
+//if the kid is 14 or older and can swim in 24 seconds or faster then he makes the team.
 
 
+
+//aka
+
+team= (age >=14 && speedTime <=24)? "yes":"no";
+console.log(team);
