@@ -19,6 +19,14 @@ var age = prompt("What is your age?");
 
 if(age === ""){age = prompt("Please enter your age!");}
 
+//Prompt kid for speedTime.
+
+var speedTime = prompt("What is your speed time?");
+
+//Validate the prompt
+
+if(speedTime === ""){speedTime = prompt("Please enter your speed time!");}
+
 //if the kid is 14 or older and can swim in 24 seconds or faster then he makes the team.
 
 team= (age >=14 && speedTime <=24)? "yes":"no";
