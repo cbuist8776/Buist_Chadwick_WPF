@@ -7,8 +7,8 @@
 
 //Calculate if a person is old and fast enough to make the team in the 50m freestyle
 
-var age = 
-var speedTime=
+
+
 var team;
 
 //Prompt the kid for age.
@@ -29,5 +29,5 @@ if(speedTime === ""){speedTime = prompt("Please enter your speed time!");}
 
 //if the kid is 14 or older and can swim in 24 seconds or faster then he makes the team.
 
-team= (age >=14 && speedTime <=24)? "yes":"no";
+team= (age >=14 && speedTime <=24)? "yes you make the team":"no you do not make the team";
 console.log(team);
