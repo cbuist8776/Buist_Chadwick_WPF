@@ -7,3 +7,6 @@
 
 //Calculate if person is old enough and has enough money to buy a lap top from the store.
 
+//Establish variables needed to make the purchase.
+var age = 18
+var money = 100 
