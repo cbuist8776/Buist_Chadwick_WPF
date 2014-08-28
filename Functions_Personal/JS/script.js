@@ -36,8 +36,15 @@ console.log(squat)
 
 //Create function for calculating whether I make team A or B.
 
-function teamTotal (){pushup + situp + squat
-	console.log(teamTotal);}
+function teamTotal(){
+	var pushup = pushup
+	
+	var situp = situp
+	
+	var squat = squat
+	
+	var total= pushup+situp+squat
+	console.log(total);}
 	
 	teamTotal();
 
