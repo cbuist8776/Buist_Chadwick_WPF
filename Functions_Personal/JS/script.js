@@ -39,7 +39,7 @@ console.log(squat)
 function teamTotal (){pushup + situp + squat
 	console.log(teamTotal);}
 	
-	team ();
+	teamTotal();
 
 
 
