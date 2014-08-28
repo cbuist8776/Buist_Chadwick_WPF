@@ -14,15 +14,21 @@ var pushup = prompt("How many pushups did you complete?")
 
 while(pushup === ""){pushup = prompt ("Please enter the number of pushups completed!");}
 
+console.log(pushup)
+
 var situp= prompt ("How many situps did you complete?")
 
 //Validate the prompt
 
 while(situp === ""){situp = prompt ("Please enter the number of situps completed!")}
 
+console.log(situp)
+
 var squat= prompt("How many squats did you complete?")
 
 //Validate the prompt
 
 while(squat === ""){squat = prompt ("Please enter the number of squats you completed!")}
+
+console.log(squat)
 
