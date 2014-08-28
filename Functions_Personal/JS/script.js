@@ -12,10 +12,7 @@
 
 //Create function for calculating whether I make team A or B.
 
-if( pushup * situp * squat >= 150){
-		console.log("You will be on Team A")
-	}else {
-		console.log("You will be on Team B")
+
 	}
 
 function teamTotal(){
