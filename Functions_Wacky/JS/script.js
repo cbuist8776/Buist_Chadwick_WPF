@@ -31,11 +31,9 @@ function parking () {
 	
 	parking();
 	
-	//Create an anonymous function stating how many spaces are left for Chad.
 	
-var chadsSpaces = capacity-1;
+	
 
-console.log(capacity);
 
 
 
