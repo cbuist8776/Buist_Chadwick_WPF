@@ -8,7 +8,7 @@
 
 //Prompt user for the number of push-ups, sit ups, and squats completed and validate the prompt with a function.
 
-//Standard to make team A is average 150 or greater.  Standard to make team B is average 100 or greater.  Calculate which team I will be on after information is entered.
+//Standard to make team A is total 150 or greater.  Standard to make team B is total 149 or less.  Calculate which team I will be on after information is entered.
 
 //Create function for calculating whether I make team A or B.
 
@@ -38,9 +38,18 @@ while(squat === ""){squat = prompt ("Please enter the number of squats you compl
 console.log(squat)
 	
 	var total= pushup * situp * squat
+	return total;
 	console.log(total);}
 	
 	teamTotal();
+	
+	//Create else/if statement/conditional to state whether I made team A or team B
+	
+     if( pushup * situp * squat >= 150){
+		console.log("You will be on Team A")
+	}else {
+		console.log("You will be on Team B")
+	}
 
 
 
