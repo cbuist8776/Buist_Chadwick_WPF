@@ -14,3 +14,16 @@ var cars = prompt("How many cars are you bringing to the party?")
 while(cars === ""){cars = prompt ("Please enter the number of cars you are bringing to the party);}
 
 console.log(cars)
+
+//Create a function to see how many cars it will take to fill up the 20 parking spaces before running out of space.
+
+function parking () {
+	var cars = 1 
+	var spaces = 20
+	var capacity = spaces/cars
+	console.log(capacity);}
+	
+	parking();
+
+
+
