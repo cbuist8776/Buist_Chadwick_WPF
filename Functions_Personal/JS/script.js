@@ -43,7 +43,7 @@ function teamTotal(){
 	
 	var squat = squat
 	
-	var total= pushup+situp+squat
+	var total= pushup + situp + squat
 	console.log(total);}
 	
 	teamTotal();
