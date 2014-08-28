@@ -32,3 +32,20 @@ while(squat === ""){squat = prompt ("Please enter the number of squats you compl
 
 console.log(squat)
 
+//Standard to make team A is 150.  Standard to make team B is 100.  Calculate which team I will be on after information is entered.
+
+//Create function for calculating whether I make team A or B.
+
+function teamTotal (){pushup + situp + squat
+	console.log(teamTotal);}
+	
+	team ();
+
+
+
+
+
+
+
+
+
