@@ -32,18 +32,18 @@ while(squat === ""){squat = prompt ("Please enter the number of squats you compl
 
 console.log(squat)
 
-//Standard to make team A is 150.  Standard to make team B is 100.  Calculate which team I will be on after information is entered.
+//Standard to make team A is average 150 or greater.  Standard to make team B is average 100 or greater.  Calculate which team I will be on after information is entered.
 
 //Create function for calculating whether I make team A or B.
 
 function teamTotal(){
-	var pushup = pushup
+	var pushup = prompt("How many pushups did you complete?")
 	
-	var situp = situp
+	var situp = prompt ("How many situps did you complete?")
 	
-	var squat = squat
+	var squat = prompt("How many squats did you complete?")
 	
-	var total= pushup + situp + squat
+	var total= pushup * situp * squat
 	console.log(total);}
 	
 	teamTotal();
