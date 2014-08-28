@@ -39,13 +39,16 @@ console.log(squat)
 	
 	var total= pushup * situp * squat
 	return total;
+	return pushup;
+	return situp;
+	return squat;
 	console.log(total);}
 	
 	teamTotal();
 	
 	//Create else/if statement/conditional to state whether I made team A or team B
 	
-     if( pushup * situp * squat >= 150){
+    if( pushup * situp * squat >= 150){
 		console.log("You will be on Team A")
 	}else {
 		console.log("You will be on Team B")
