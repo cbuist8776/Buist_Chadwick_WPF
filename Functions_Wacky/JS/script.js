@@ -15,7 +15,7 @@
 
 //Create a function to see how many cars it will take to fill up the 20 parking spaces before running out of space.
 
-function parking () {
+function parking (spaces) {
 	
 	var cars = prompt("How many cars are you bringing to the party?")
 	
@@ -23,13 +23,17 @@ function parking () {
 
     console.log(cars);
     
-    var spaces = 20
-    
-	var capacity = spaces/cars
+    var capacity = spaces/cars
 	
 	console.log(capacity);}
 	
 	parking();
+	
+	parking (20);
+	
+	parking (40);
+	
+	parking (100);
 	
 	
 	
