@@ -12,6 +12,8 @@
 
 //Create function for calculating whether I make team A or B.
 
+
+
 function teamTotal(){
 	var pushup = prompt("How many pushups did you complete?")
 	
@@ -39,9 +41,13 @@ console.log(squat)
 	
 	var total= (pushup) * (situp) * (squat)/3
 	
+	return total
+	
 	console.log(total);}
 	
 	teamTotal();
+	
+	
 	
 	
 	
