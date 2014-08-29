@@ -37,7 +37,7 @@ while(squat === ""){squat = prompt ("Please enter the number of squats you compl
 
 console.log(squat)
 	
-	var total= pushup * situp * squat
+	var total= pushup + situp + squat
 	
 	console.log(total);}
 	
