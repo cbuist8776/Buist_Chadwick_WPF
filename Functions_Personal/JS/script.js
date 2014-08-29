@@ -39,8 +39,6 @@ console.log(squat)
 	
 	var total= (pushup) * (situp) * (squat)/3
 	
-	return total
-	
 	console.log(total);}
 	
 	teamTotal();
