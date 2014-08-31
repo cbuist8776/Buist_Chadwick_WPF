@@ -54,7 +54,13 @@ function teamTotal(pushup, situp, squat){
 	
 	console.log (trueTotal);
 	
-	
+	//Questions for Professor Garlic
+	// Hello professor garlic,  I do thank you kindly for the help you've given me so far for this and other projects.
+	//The main questions I have on this Personal project are as follows:
+	//I'm getting the result for the arguements and parameter's I've set.  But how can I still invoke the initial prompts into the function if possible?
+	// Have I corrected this as I was supposed to up to this point?  
+	//Thank you once more. 
+	//Sincerely--Chad Buist
 	
 	
 	
