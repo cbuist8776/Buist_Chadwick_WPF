@@ -22,9 +22,18 @@ function monitors (desktopPC, monitorPC){
 	var monitorPC = 1
 	var totalMonitorToPC = desktopPC*monitorPC
 	return totalMonitorToPC;
-	console.log(totalMonitorToPC);
+	
 }
 
-monitors(5,15);
+//establish return value
+
+var trueTotalMonitorToPC = monitors(5,15);
+
+//run to console.
+
+console.log(trueTotalMonitorToPC);
+
+
+
 
 
