@@ -35,6 +35,8 @@ var parking = function (spaces, cars) {
 	
 	console.log (totalParking);
 	
+	(totalParking <= 20)? console.log("You can come to the party!") : console.log("Sorry but you can't come to the party");
+	
 	
 	//Questions for Professor Garlic
 	// I know this function is very simple and before I make it further complex I'm getting an error in the console on line one that states "Unexpected end of input".
