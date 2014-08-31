@@ -59,6 +59,8 @@ function teamTotal(pushup, situp, squat){
 	
 	
 	
+	
+	
     
 
 
