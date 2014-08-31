@@ -52,6 +52,8 @@ function teamTotal(pushup, situp, squat){
 	
 	var trueTotal = teamTotal();
 	
+	console.log (trueTotal);
+	
 	
 	
 	
