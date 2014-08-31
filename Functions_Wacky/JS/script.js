@@ -7,7 +7,11 @@
 
 //Calculate how many cars it will take to fill the parking spaces at the party this Labor Day Weekend.
 
+var cars = prompt("How many cars are you bringing to the party?")
+	
+	while(cars === ""){cars = prompt ("Please enter the number of cars you're bringing to the party!");}
 
+    console.log(cars);
 
 //Validate the prompt
 
@@ -15,25 +19,24 @@
 
 //Create a function to see how many cars it will take to fill up the 20 parking spaces before running out of space.
 
-function parking (spaces) {
+function parking (spaces, cars) {
 	
-	var cars = prompt("How many cars are you bringing to the party?")
+	var spaces = 20
 	
-	while(cars === ""){cars = prompt ("Please enter the number of cars you're bringing to the party!");}
-
-    console.log(cars);
-    
-    var capacity = spaces/cars
+	var vehicles = cars
 	
-	console.log(capacity);}
+	var capacity = spaces/cars
 	
-	parking();
+	return capacity;
 	
-	parking (20);
+//Set up return variable and arguements to put into the parameters
 	
-	parking (40);
+	var totalParking = parking(20, 40, 100);
 	
-	parking (100);
+	console.log (totalParking);
+	
+	
+	
 	
 	
 	
