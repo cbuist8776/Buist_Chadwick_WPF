@@ -19,7 +19,7 @@ var cars = prompt("How many cars are you bringing to the party?")
 
 //Create a function to see how many cars it will take to fill up the 20 parking spaces before running out of space.
 
-function parking (spaces, cars) {
+var parking = function (spaces, cars) {
 	
 	var spaces = 20
 	
