@@ -18,8 +18,7 @@ console.log(desktop)
 //Create a function to see how many monitors are needed per desktop purchased.
 
 function monitors (desktopPC, monitorPC){
-	var desktopPC = desktop
-	var monitorPC = 1
+	
 	var totalMonitorToPC = desktopPC*monitorPC
 	return totalMonitorToPC;
 	
